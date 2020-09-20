@@ -1,4 +1,4 @@
-# 2048_game
+# 2048 Terminal Game
 This code will allow you to play a game of 2048 from the terminal from scratch or from an exisiting grid.
 
 Run the terminal, find the location of the code and launch it.
